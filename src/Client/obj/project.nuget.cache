@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCQobnOapFRb8TRUuJTYAS/XDrlOxFz9tuiaOgkeKm3GDPVXm6bnjzFqI+LB7LKyiPtgeOhiI0RXW8XukhJe7g==",
+  "success": true,
+  "projectFilePath": "/Users/rachelquilligan/Projects/Jewels/src/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/rachelquilligan/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

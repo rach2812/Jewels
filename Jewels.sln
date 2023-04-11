@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{584227C9-9E0D-45BC-A8C5-FDA5BA327045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "src\IdentityServer\IdentityServer.csproj", "{5893EA55-5F07-46B8-AB8E-48D05EDC4156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelsApi", "src\JewelsApi\JewelsApi.csproj", "{400B909B-B10A-4427-89BA-E1E29E4C9BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "src\Client\Client.csproj", "{97D66641-1540-4EA6-A591-88FED5557B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5893EA55-5F07-46B8-AB8E-48D05EDC4156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5893EA55-5F07-46B8-AB8E-48D05EDC4156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5893EA55-5F07-46B8-AB8E-48D05EDC4156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5893EA55-5F07-46B8-AB8E-48D05EDC4156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400B909B-B10A-4427-89BA-E1E29E4C9BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400B909B-B10A-4427-89BA-E1E29E4C9BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400B909B-B10A-4427-89BA-E1E29E4C9BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400B909B-B10A-4427-89BA-E1E29E4C9BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D66641-1540-4EA6-A591-88FED5557B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D66641-1540-4EA6-A591-88FED5557B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D66641-1540-4EA6-A591-88FED5557B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D66641-1540-4EA6-A591-88FED5557B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5893EA55-5F07-46B8-AB8E-48D05EDC4156} = {584227C9-9E0D-45BC-A8C5-FDA5BA327045}
+		{400B909B-B10A-4427-89BA-E1E29E4C9BC4} = {584227C9-9E0D-45BC-A8C5-FDA5BA327045}
+		{97D66641-1540-4EA6-A591-88FED5557B31} = {584227C9-9E0D-45BC-A8C5-FDA5BA327045}
+	EndGlobalSection
+EndGlobal

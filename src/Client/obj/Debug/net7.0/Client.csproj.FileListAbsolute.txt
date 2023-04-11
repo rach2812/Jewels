@@ -1,0 +1,17 @@
+/Users/rachelquilligan/Projects/Jewels/src/Client/bin/Debug/net7.0/Client
+/Users/rachelquilligan/Projects/Jewels/src/Client/bin/Debug/net7.0/Client.deps.json
+/Users/rachelquilligan/Projects/Jewels/src/Client/bin/Debug/net7.0/Client.runtimeconfig.json
+/Users/rachelquilligan/Projects/Jewels/src/Client/bin/Debug/net7.0/Client.dll
+/Users/rachelquilligan/Projects/Jewels/src/Client/bin/Debug/net7.0/Client.pdb
+/Users/rachelquilligan/Projects/Jewels/src/Client/bin/Debug/net7.0/IdentityModel.dll
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.csproj.AssemblyReference.cache
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.AssemblyInfoInputs.cache
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.AssemblyInfo.cs
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.csproj.CoreCompileInputs.cache
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.csproj.CopyComplete
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.dll
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/refint/Client.dll
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.pdb
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/Client.genruntimeconfig.cache
+/Users/rachelquilligan/Projects/Jewels/src/Client/obj/Debug/net7.0/ref/Client.dll
